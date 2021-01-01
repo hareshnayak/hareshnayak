@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a ECE undergard at Delhi Technological University and a part of the Android Team of Google DSC-DTU.  
+I am a ECE sophomore at Delhi Technological University (2k23) and the last year I grew a passion towards Mobile App Development, since then I have been working on multiple flutter projects of my own and am excited about contributing to open source this year on.  
 - 🔭 I’m currently working on UI/UX design, Figma, Flutter and Firebase and creating apps that matter.
 - 🌱 I recently completed the 30daysofGoogleCloud (GCP), Hacktober 2020 and looking forward to contributing to open source this year 
 - 📫 How to reach me: [Linkedin](https://linkedin.in/in/hareshnayak08) | [Twitter](https://twitter.com/HareshNayak19) | [Devfolio](https://devfolio.co/@HareshNayak)
