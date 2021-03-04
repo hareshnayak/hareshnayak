@@ -16,3 +16,5 @@ I am a ECE sophomore at Delhi Technological University (2k23) and core member at
 - 🔭 I’m currently working on **UI/UX design, Figma, Flutter and Firebase** and creating apps that matter.
 - 🌱 I recently completed the **30daysofGoogleCloud (GCP), Hacktober 2020,** got selected in **Google Developer Club (DSC-DTU) Android Team** and am looking forward to contributing to open source this year 
 - 📫 How to reach me: [Linkedin](https://linkedin.in/in/hareshnayak08) | [Twitter](https://twitter.com/HareshNayak19) | [Devfolio](https://devfolio.co/@HareshNayak)
+
+![Metrics](https://metrics.lecoq.io/hareshnayak?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta)
