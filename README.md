@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 I am a ECE sophomore at Delhi Technological University (2k23) and core member at Android Team DSC-DTU. Last year I grew a passion towards **Mobile App Development**, since then I have been working on multiple flutter projects of my own and am excited about contributing to open source this year on.  
-- 🔭 I’m currently working on **UI/UX design, Figma, Flutter and Firebase** and creating apps that matter.
+- 🔭 I’m currently working on **UI/UX design, Figma, Flutter and Firebase and IOT** and creating apps that matter.
 - 🌱 I recently completed the **SWOC Open source program, 30daysofGoogleCloud (GCP), Hacktober 2020,** got selected as a  **Mentor in GSSOC'21** 
 - 📫 How to reach me: [Linkedin](https://linkedin.in/in/hareshnayak08) | [Twitter](https://twitter.com/HareshNayak19) | [Instagram](https://www.instagram.com/sketchharry01) | [Devfolio](https://devfolio.co/@HareshNayak) | [Google Play Account](https://play.google.com/store/apps/developer?id=Himesh+Haresh) 
 
