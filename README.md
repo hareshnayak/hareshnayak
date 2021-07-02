@@ -18,4 +18,7 @@ I am a ECE sophomore at Delhi Technological University (2k23) and core member at
 - Currently I am working with a passionate group of people working for mental health, where I am giving my contribution as the App Developer.
 - 📫 How to reach me: [Linkedin](https://linkedin.in/in/hareshnayak08) | [Twitter](https://twitter.com/HareshNayak19) | [Instagram](https://www.instagram.com/sketchharry01) | [Devfolio](https://devfolio.co/@HareshNayak) | [Google Play Account](https://play.google.com/store/apps/developer?id=Himesh+Haresh) 
 
-![Metrics](https://metrics.lecoq.io/hareshnayak?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hareshnayak&theme=prussian&border_radius=2">
+  <img src="https://github-readme-stats.vercel.app/api?username=hareshnayak&show_icons=true&theme=prussian&border_radius=2">
+</p
