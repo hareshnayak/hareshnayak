@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a pre-final year undergrad at **Delhi Technological University (2k23)** and core member at **Android Team Google Developer Students Club(DTU)**. Currently, I have taken the role of facilitating **Android Study Jam** and would be mentoring students regarding Android. I also facilitated 30 days of Google Cloud program at my campus with over 450 registrations and 198 winners.
+I am a pre-final year undergrad at **Delhi Technological University (2k23)** and core member at Android Team of **Google Developer Students Club(DTU)**. Currently, I have taken the role of facilitating **Android Study Jam** and would be mentoring students regarding Android. I also facilitated 30 days of Google Cloud program at my campus with over 450 registrations and 198 winners.
 Technologies I am currently working on are 
 - Android Native
 - Flutter
