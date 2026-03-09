@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Performance-driven Backend Developer with ~3 years of experience specializing in Java 21 and Spring Boot 3.3+
+I'm a Performance-driven Backend Developer with ~3 years of experience specializing in Java 21 and Spring Boot 3.3+
 ecosystems. 4-time ACE Award winner recognized for driving architectural innovation, including the implementation of
 high-availability Active-Passive resiliency models. Expert in modernizing legacy systems, optimizing high-throughput
 microservices, and delivering secure, scalable solutions within the Telecom/KYC/Fintech domain.
